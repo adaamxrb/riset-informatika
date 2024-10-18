@@ -4,12 +4,12 @@
 > NPM : 21081010054 <br>
 > Kelas : Riset Informatika D-081
 
-## 📖 Jurnal Penelitian
+# 📖 Jurnal Penelitian
 
 <details close>
 <summary>Ide Penelitian</summary>
 
-### 💡Ide Penelitian
+## 💡Ide Penelitian
 
 | Num | Title                                                                                                                                                                                                           | Authors                            | Year |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---- |
@@ -25,7 +25,7 @@
 <details close>
 <summary>Penelitian Dasar & Penelitian Terapan</summary>
 
-### 📚 Penelitian Dasar (Pure Research)
+## 📚 Penelitian Dasar (Pure Research)
 
 | Num | Title                  | Penulis   |
 | --- | ---------------------- | --------- |
@@ -33,7 +33,7 @@
 | 02  | <a href="">Judul 2</a> | Penulis 2 |
 | 03  | <a href="">Judul 3</a> | Penulis 3 |
 
-### ⚗️ Penelitian Terapan (Applied Research)
+## ⚗️ Penelitian Terapan (Applied Research)
 
 | Num | Title                  | Penulis   |
 | --- | ---------------------- | --------- |
@@ -47,7 +47,7 @@
 <details close>
 <summary>Research Gap</summary>
 
-### 🔬 Research Gap
+## 🔬 Research Gap
 
 | Num | Title                  | Penulis   |
 | --- | ---------------------- | --------- |
@@ -61,14 +61,14 @@
 <details close>
 <summary>Methods & Methodology</summary>
 
-### 📌 Methods
+## 📌 Methods
 
 | Num | Title                  | Penulis   |
 | --- | ---------------------- | --------- |
 | 01  | <a href="">Judul 1</a> | Penulis 1 |
 | 02  | <a href="">Judul 2</a> | Penulis 2 |
 
-### 📌 Methodology
+## 📌 Methodology
 
 | Num | Title                  | Penulis   |
 | --- | ---------------------- | --------- |
@@ -79,12 +79,12 @@
 </details>
 <br>
 
-## 📝 Ringkasan Materi
+# 📝 Ringkasan Materi
 
-<details close>
+<details open>
 <summary>Penelitian & Metode Ilmiah</summary>
 
-### <h2>🔬 Penelitian & Metode Ilmiah</h2>
+## 🔬 Penelitian & Metode Ilmiah
 
 ### I - Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
 
@@ -137,7 +137,7 @@ Penelitian dimulai dengan mengidentifikasi masalah, yang bisa berasal dari berba
 
 **_Metode ilmiah_** adalah cara sistematis untuk memperoleh pengetahuan baru yang digunakan untuk menjawab permasalahan penelitian ilmiah.
 
-#### Langkah-langkah Metode Ilmiah:
+### Langkah-langkah Metode Ilmiah:
 
 1. **Identifikasi Masalah:** Menemukan dan menetapkan masalah yang akan diteliti.
 2. **Merumuskan Hipotesis:** Menyusun proposisi atau dugaan sementara yang harus diuji.
