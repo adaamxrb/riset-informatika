@@ -75,7 +75,6 @@
 | 01  | <a href="">Judul 1</a> | Penulis 1 |
 | 02  | <a href="">Judul 2</a> | Penulis 2 |
 
-<br>
 </details>
 <br>
 
