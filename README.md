@@ -1,10 +1,10 @@
-# 📑Riset Informatika
+## 📑Riset Informatika
 
 > Nama : Adham Roy Bhafiel <br>
 > NPM : 21081010054 <br>
 > Kelas : Riset Informatika D-081
 
-# 📖 Jurnal Penelitian
+## 📖 Jurnal Penelitian
 
 <details close>
 <summary>Ide Penelitian</summary>
@@ -76,16 +76,15 @@
 | 02  | <a href="">Judul 2</a> | Penulis 2 |
 
 </details>
-<br>
 
-# 📝 Ringkasan Materi
+## 📝 Ringkasan Materi
 
 <details open>
 <summary>Penelitian & Metode Ilmiah</summary>
 
-## 🔬 Penelitian & Metode Ilmiah
+### <h1>🔬 Penelitian & Metode Ilmiah
 
-### I - Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
+#### <h3>I - Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
 
 **_Pengetahuan_** mencakup segala hal yang dipahami manusia melalui tiga kemampuan utama: berpikir, merasakan, dan mengindera. Pengetahuan ini diperoleh melalui proses penalaran dan dapat dilihat dari perspektif akal maupun pengalaman.
 
@@ -103,7 +102,7 @@
 2. Fakta dapat melahirkan teori baru atau memperbarui teori yang sudah ada.
 3. Fakta juga membantu memperjelas atau memperhalus rumusan teori.
 
-### II - Penelitian
+#### <h3>II - Penelitian
 
 **Penelitian** adalah suatu usaha sistematis untuk mencari tahu jawaban atas suatu masalah atau pertanyaan tertentu. Penelitian sebagai sarana untuk mengembangkan dan meningkatkan pengetahuan serta memberikan solusi bagi masalah yang dihadapi.
 
@@ -118,7 +117,7 @@
     Francis Bacon adalah salah satu tokoh yang memperkenalkan pendekatan ini.
     Jawaban atas masalah ditemukan pada objek atau fenomena yang diamati menggunakan metode ilmiah.
 
-### II.1 - Proses Peneletian
+#### <h3>II.1 - Proses Peneletian
 
 Proses penelitian memiliki 7 tahapan yakni :
 
@@ -132,25 +131,25 @@ Proses penelitian memiliki 7 tahapan yakni :
 
 Penelitian dimulai dengan mengidentifikasi masalah, yang bisa berasal dari berbagai sumber, dan merumuskannya untuk memperjelas apa yang diteliti. Selanjutnya, dibuat kerangka konsep untuk menggambarkan fenomena dan merumuskan hipotesis, jika diperlukan. Desain penelitian menentukan metode, variabel, dan instrumen pengumpulan data. Setelah data dikumpulkan, dilakukan analisis untuk menjawab pertanyaan penelitian. Akhirnya, kesimpulan diambil berdasarkan analisis yang objektif dan berlaku untuk populasi penelitian.
 
-### III - Metode Ilmiah
+#### <h3>III - Metode Ilmiah
 
 **_Metode ilmiah_** adalah cara sistematis untuk memperoleh pengetahuan baru yang digunakan untuk menjawab permasalahan penelitian ilmiah.
 
-### Langkah-langkah Metode Ilmiah:
+#### <h3>Langkah-langkah Metode Ilmiah:
 
 1. **Identifikasi Masalah:** Menemukan dan menetapkan masalah yang akan diteliti.
 2. **Merumuskan Hipotesis:** Menyusun proposisi atau dugaan sementara yang harus diuji.
 3. **Mengumpulkan dan Menganalisis Data:** Melakukan pengumpulan data dari fenomena yang diteliti dan mengujinya.
 4. **Membuat Kesimpulan:** Berdasarkan hasil pengujian, menyimpulkan apakah hipotesis diterima atau ditolak.
 
-### III.1 - Hubungan Antara Metode Ilmiah dan Proses
+#### <h3>III.1 - Hubungan Antara Metode Ilmiah dan Proses
 
 -   **Identifikasi Masalah** adalah langkah pertama dalam metode ilmiah yang sesuai dengan proses penelitian, yaitu memahami sumber masalah dan merumuskan masalah penelitian.
 -   **Perumusan Hipotesis**, dalam proses penelitian, ini berhubungan dengan pembuatan kerangka konsep dan penyusunan hipotesis.
 -   **Pengujian Hipotesis**, meliputi desain penelitian, pengumpulan, dan analisis data.
 -   **Membuat Kesimpulan**, kesimpulan dibuat berdasarkan hasil pengujian hipotesis dan merupakan tahap akhir dari proses penelitian.
 
-### IV - Alat Dalam Penelitian
+#### <h3>IV - Alat Dalam Penelitian
 
 -   **[Mendeley](https://www.mendeley.com/)** - Aplikasi untuk manajemen referensi.
 -   **[Github](https://www.github.com/)** - Platform untuk menyimpan dan berbagi kode.
