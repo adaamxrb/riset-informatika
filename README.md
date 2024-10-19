@@ -86,9 +86,9 @@
 
 #### <h3>I - Pengenalan (Ilmu Pengetahuan, Penelitian, dan Metode Ilmiah)
 
-**_Pengetahuan_** mencakup segala hal yang dipahami manusia melalui tiga kemampuan utama: berpikir, merasakan, dan mengindera. Pengetahuan ini diperoleh melalui proses penalaran dan dapat dilihat dari perspektif akal maupun pengalaman.
+> **_Pengetahuan_** mencakup segala hal yang dipahami manusia melalui tiga kemampuan utama: berpikir, merasakan, dan mengindera. Pengetahuan ini diperoleh melalui proses penalaran dan dapat dilihat dari perspektif akal maupun pengalaman.
 
-**_Ilmu pengetahuan_** merupakan bentuk pengetahuan yang bersifat rasional, konsisten, sistematis, dan dapat diuji kebenarannya, baik secara teoritis (rasional) maupun empiris (berdasarkan fakta). Untuk memastikan validitasnya, ilmu pengetahuan memerlukan bukti dan pengujian yang ketat.
+> **_Ilmu pengetahuan_** merupakan bentuk pengetahuan yang bersifat rasional, konsisten, sistematis, dan dapat diuji kebenarannya, baik secara teoritis (rasional) maupun empiris (berdasarkan fakta). Untuk memastikan validitasnya, ilmu pengetahuan memerlukan bukti dan pengujian yang ketat.
 
 **Peran Teori**
 
@@ -104,7 +104,7 @@
 
 #### <h3>II - Penelitian
 
-**Penelitian** adalah suatu usaha sistematis untuk mencari tahu jawaban atas suatu masalah atau pertanyaan tertentu. Penelitian sebagai sarana untuk mengembangkan dan meningkatkan pengetahuan serta memberikan solusi bagi masalah yang dihadapi.
+> **Penelitian** adalah suatu usaha sistematis untuk mencari tahu jawaban atas suatu masalah atau pertanyaan tertentu. Penelitian sebagai sarana untuk mengembangkan dan meningkatkan pengetahuan serta memberikan solusi bagi masalah yang dihadapi.
 
 **Pendekatan Penelitian :**
 
@@ -133,7 +133,7 @@ Penelitian dimulai dengan mengidentifikasi masalah, yang bisa berasal dari berba
 
 #### <h3>III - Metode Ilmiah
 
-**_Metode ilmiah_** adalah cara sistematis untuk memperoleh pengetahuan baru yang digunakan untuk menjawab permasalahan penelitian ilmiah.
+> **_Metode ilmiah_** adalah cara sistematis untuk memperoleh pengetahuan baru yang digunakan untuk menjawab permasalahan penelitian ilmiah.
 
 #### <h3>Langkah-langkah Metode Ilmiah:
 
@@ -142,7 +142,7 @@ Penelitian dimulai dengan mengidentifikasi masalah, yang bisa berasal dari berba
 3. **Mengumpulkan dan Menganalisis Data:** Melakukan pengumpulan data dari fenomena yang diteliti dan mengujinya.
 4. **Membuat Kesimpulan:** Berdasarkan hasil pengujian, menyimpulkan apakah hipotesis diterima atau ditolak.
 
-#### <h3>III.1 - Hubungan Antara Metode Ilmiah dan Proses
+#### <h3>III.1 - Hubungan Antara Metode Ilmiah dan Proses Penelitian
 
 -   **Identifikasi Masalah** adalah langkah pertama dalam metode ilmiah yang sesuai dengan proses penelitian, yaitu memahami sumber masalah dan merumuskan masalah penelitian.
 -   **Perumusan Hipotesis**, dalam proses penelitian, ini berhubungan dengan pembuatan kerangka konsep dan penyusunan hipotesis.
@@ -156,5 +156,102 @@ Penelitian dimulai dengan mengidentifikasi masalah, yang bisa berasal dari berba
 -   **[Grammarly](https://www.grammarly.com/)** - Alat untuk memperbaiki tata bahasa dan ejaan.
 -   **[OpenAI](https://www.openai.com/)** - Alat untuk eksplorasi data menggunakan kecerdasan buatan.
 -   **[Turnitin](https://www.turnitin.com/)** - Alat untuk memeriksa plagiarisme.
+<hr>
+</details>
+
+<details open>
+<summary>Riset, Skripsi, & Publikasi</summary>
+
+### <h1>📔 Riset, Skripsi & Publikasi
+
+#### <h3>I - Riset
+
+> **_Riset_** merupakan kegiatan mengumpulkan, menganalisis, dan menerjemahkan data secara sistematis untuk memahami suatu fenomena. Riset sendiri mencakup niat riset, cara melakukan riset dan tujuan riset.
+
+**Cara Melakukan Riset**
+
+1. Pilih topik yang diminati (hobi) dan bermanfaat.
+2. Sesuaikan dengan roadmap penelitian laboratorium dan pembimbing.
+3. Kerjakan riset dalam tim.
+
+**Roadmap**
+
+> **_Roadmap_** digunakan untuk mengarahkan penelitian pada jalur yang terstruktur. Riset harus dilakukan secara sistematis dengan langkah-langkah jelas, menemukan fakta, metode baru, dan mengumpulkan data untuk pengujian empiris serta evaluasi.
+
+Contoh Roadmap Penelitian:
+![Roadmap](assets/img/riset-skripsi-publikasi/roadmap.png)
+Gambar roadmap tersebut menunjukkan perkembangan dan penerapan sistem kontrol cerdas dalam tiga fase utama:
+
+1. 2010-2014 (In Pipeline): Sistem kontrol cerdas berbasis Internet Data Acquisition and Control System (IDACS) mulai direncanakan dan dikembangkan.
+
+2. 2015-2019 (Late Stage of Applied Research): Implementasi sistem kontrol cerdas yang mulai mencakup sistem kontrol berbasis penglihatan komputer (computer-vision). Tantangan kolaborasi dengan bidang lain seperti robotika, drone, dan pertanian muncul.
+
+3. 2020-2024: Penerapan lebih lanjut menggunakan Cloud Computing dan Internet of Things (IoT), menunjukkan integrasi teknologi yang lebih luas dalam aplikasi sistem cerdas.
+
+Ke depannya, roadmap mengindikasikan adanya pengembangan lebih lanjut dengan teknologi yang lebih canggih di masa depan.
+
+**Tujuan Riset**
+
+Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan solusi, membangun sistem atau prosedur baru, dan menjelaskan fenomerna baru. Kriteria riset yang baik adalah harus memberikan kontribusi **(contribution)**, memiliki orisinalitas **(originality)** dan kebaruan **(novelty)**
+
+#### <h3>II - Riset & Skripsi
+
+**Hubungan antara Riset & Skripsi**
+
+-   **Riset yang baik** akan menghasilkan **Skripsi yang baik.**
+
+-   **Skripsi** ditekankan sebagai hasil dari **Riset yang solid**.
+
+<br>
+
+**Struktur Skripsi :**
+
+| **Bab** | **Judul**            | **Isi**                                                                             |
+| ------- | -------------------- | ----------------------------------------------------------------------------------- |
+| **I**   | Pendahuluan          | Latar belakang, perumusan masalah, batasan masalah, tujuan, dan manfaat penelitian. |
+| **II**  | Tinjauan Pustaka     | Penelitian terdahulu dan teori-teori yang mendasari penelitian.                     |
+| **III** | Metode Penelitian    | Spesifikasi sistem, perancangan sistem, diagram alir, dan metode pengujian.         |
+| **IV**  | Hasil dan Pembahasan | Implementasi sistem dan hasil uji coba.                                             |
+| **V**   | Kesimpulan dan Saran | Kesimpulan dari hasil penelitian dan saran untuk penelitian selanjutnya.            |
+
+#### <h3>III - Publikasi
+
+> **_Publikasi_** merupakan hasil riset dan skripsi yang baik akan melahirkan publikasi yang berkualitas.
+
+**Tips Menulis Artikel Publikasi:**
+
+1. Kenali jurnal (nama, ISSN, penerbit).
+2. Pelajari **_"Guide for Authors"_**.
+3. Baca banyak artikel jurnal sebagai referensi.
+4. Rancang riset dengan baik dan latihan penulisan.
+5. Cek plagiasi dan belajar cara submit.
+6. Jawab pertanyaan reviewer dengan teliti.
+7. Gunakan proofreading untuk mempercepat proses review.<br>
+
+**Kesalahan Umum dalam Penulisan Artikel**
+
+-   **Kesalahan umum:** Tidak sesuai cakupan, judul-abstrak yang tidak lazim, hasil yang prematur, dan bahasa yang tidak sesuai.
+-   **Judul:** Harus ilmiah dengan jumlah kata kurang dari 15, pengarang ditulis tanpa gelar, dan alamat email institusi.
+
+**Abstrak dan Pendahuluan Artikel**
+
+-   **Abstrak:** Berisi klaim penelitian, metode, dan hasil utama.
+-   **Pendahuluan:** Latar belakang masalah dan solusi yang ditawarkan. Menggunakan referensi terbaru dan primer.
+
+**Metode dan Pembahasan Artikel**
+
+-   **Metode:** Relevan dengan hasil penelitian, jelas, dan harus repeatable (bisa diulang).
+-   **Hasil dan Pembahasan:** Gunakan grafik, tabel, atau diagram, hindari aspek lain seperti metode atau teori. Bahas hasil, teori, mekanisme, implikasi, dan bandingkan dengan hasil peneliti lain.
+
+**Simpulan, Ucapan Terima Kasih, dan Daftar Referensi**
+
+-   **Simpulan:** Sari dari hasil dan pembahasan, hindari mengulang simpulan umum.
+-   **Ucapan Terima Kasih:** Kepada penyedia dana atau teknisi/laboran yang membantu penelitian.
+-   **Daftar Pustaka:** Harus relevan, baru, dan primer, menggunakan manajer referensi seperti Mendeley.
+
+**Publikasi dan Tools yang Digunakan**
+
+-   **Tools Publikasi:** Mendeley, plagiarism check, Grammarly, dan proofreading.
+-   **Motivasi Publikasi:** Publikasi dilakukan dengan niat yang baik untuk memberikan manfaat dan kontribusi kepada masyarakat.
 <hr>
 </details>
