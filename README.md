@@ -249,9 +249,9 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 <summary>Menurut Penggunaannya</summary>
 <br>
 
-> **_Penelitian dasar atau penelitian murni (pure research)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu. Artinya kegunaan hasil penelitian itu tidak segera dipakai namun dalam waktu jangka panjang juga akan terpakai.
+-   **_Penelitian dasar atau penelitian murni (pure research)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu. Artinya kegunaan hasil penelitian itu tidak segera dipakai namun dalam waktu jangka panjang juga akan terpakai.
 
-> **_Penelitian terapan (applied reaserch)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan suatu tujuan praktis. Berarti hasilnya diharapkan segera dapat dipakai untuk keperluan praktis. Misalnya penelitian untuk menunjang kegiatan pembangunan yang sedang berjalan, penelitian untuk melandasi kebijakan pengambilan keputusan atau administrator. Dilihat dari segi tujuannya, penelitian terapan berkepentingan dengan penemuan-penemuan yang berkenan dengan aplikasi dan sesuatu konsep-konsep teoritis tertentu.
+-   **_Penelitian terapan (applied reaserch)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan suatu tujuan praktis. Berarti hasilnya diharapkan segera dapat dipakai untuk keperluan praktis. Misalnya penelitian untuk menunjang kegiatan pembangunan yang sedang berjalan, penelitian untuk melandasi kebijakan pengambilan keputusan atau administrator. Dilihat dari segi tujuannya, penelitian terapan berkepentingan dengan penemuan-penemuan yang berkenan dengan aplikasi dan sesuatu konsep-konsep teoritis tertentu.
 
 </details>
 
@@ -308,7 +308,9 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 
 <details close>
 <summary>Menurut Bidang Ilmu</summary>
-Ragam penelitian ditinjau dari bidangnya adalah penelitian pendidikan (lebih lanjut lagi pendidikan guru, pendidikan ekonomi, pendidikan kesenian), ketekhnikan, ruang angkasa, pertanian, perbankan, kedokteran, keolahragaan, dan sebagainya.
+<br>
+
+> Ragam penelitian ditinjau dari bidangnya adalah penelitian pendidikan (lebih lanjut lagi pendidikan guru, pendidikan ekonomi, pendidikan kesenian), ketekhnikan, ruang angkasa, pertanian, perbankan, kedokteran, keolahragaan, dan sebagainya.
 
 -   **_Penelitian Rekayasa_** (termasuk penelitian perangkat lunak) adalah penerapan ilmu pengetahuan untuk merancang sistem yang memenuhi spesifikasi tertentu. Prosesnya melibatkan sintesis unsur-unsur rancangan dan metode ilmiah untuk membuktikan bahwa rancangan tersebut dapat memenuhi persyaratan secara efisien, efektif, dan dengan biaya rendah. Penelitian dimulai dengan menentukan spesifikasi, memilih alternatif terbaik, dan membuktikan kinerja rancangan.
 
