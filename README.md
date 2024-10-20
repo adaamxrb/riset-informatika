@@ -247,17 +247,15 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 
 <details close>
 <summary>Menurut Penggunaannya</summary>
-<br>
 
 -   **_Penelitian dasar atau penelitian murni (pure research)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu. Artinya kegunaan hasil penelitian itu tidak segera dipakai namun dalam waktu jangka panjang juga akan terpakai.
 
 -   **_Penelitian terapan (applied reaserch)_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan suatu tujuan praktis. Berarti hasilnya diharapkan segera dapat dipakai untuk keperluan praktis. Misalnya penelitian untuk menunjang kegiatan pembangunan yang sedang berjalan, penelitian untuk melandasi kebijakan pengambilan keputusan atau administrator. Dilihat dari segi tujuannya, penelitian terapan berkepentingan dengan penemuan-penemuan yang berkenan dengan aplikasi dan sesuatu konsep-konsep teoritis tertentu.
-
+<br>
 </details>
 
 <details close>
 <summary>Menurut Metodenya</summary>
-<br>
 
 -   **Penelitian Historis**  
     Rekonstruksi sistematis peristiwa masa lalu menggunakan data dari sumber lain. Tingkat kepastian rendah; jika fokus pada individu, disebut penelitian biografis.
@@ -271,6 +269,7 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 -   **Penelitian Eksperimental**  
     Percobaan dalam kondisi terkendali untuk menemukan hubungan sebab-akibat, sering menggunakan kelompok eksperimen dan metode kuantitatif.
 
+<br>
 </details>
 
 <details close>
@@ -304,6 +303,7 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 -   **Penelitian Tindakan**  
     Fokus pada pengembangan solusi praktis untuk masalah tertentu, dengan mengobservasi dan memperbaiki praktik di lapangan.
 
+<br>
 </details>
 
 <details close>
@@ -314,6 +314,176 @@ Tujuan dari riset yakni mengetahui hal baru, meningkatkan pengetahuan, menemukan
 
 -   **_Penelitian Rekayasa_** (termasuk penelitian perangkat lunak) adalah penerapan ilmu pengetahuan untuk merancang sistem yang memenuhi spesifikasi tertentu. Prosesnya melibatkan sintesis unsur-unsur rancangan dan metode ilmiah untuk membuktikan bahwa rancangan tersebut dapat memenuhi persyaratan secara efisien, efektif, dan dengan biaya rendah. Penelitian dimulai dengan menentukan spesifikasi, memilih alternatif terbaik, dan membuktikan kinerja rancangan.
 
+<br>
 </details>
+
+<hr>
+</details>
+
+<details close>
+<summary>Research Problem Formulation</summary>
+
+<br>
+
+# 📘 Research Problem Formulation
+
+> **Research Problem Formulation** adalah proses merumuskan masalah yang perlu diperbaiki, yang bisa berasal dari literatur ilmiah, teori, atau praktik. Masalah penelitian umumnya dinyatakan dalam bentuk pertanyaan yang memandu penyelidikan.
+
+## Masalah Penelitian
+
+**Masalah penelitian** mengidentifikasi area yang perlu diperhatikan, sering kali dinyatakan dalam bentuk pertanyaan untuk menemukan jawabannya.
+
+## Tujuan Masalah Penelitian
+
+Tujuan penelitian adalah untuk memperkenalkan topik yang relevan, menunjukkan pentingnya konteks, dan memberikan kerangka untuk hasil penelitian.
+
+## Identifikasi Masalah Penelitian
+
+Masalah penelitian harus dinyatakan dengan jelas untuk mengidentifikasi isu-isu yang akan diteliti, dan sering kali memerlukan eksplorasi sebelum merumuskan dengan tepat.
+
+## Karakteristik Masalah Penelitian
+
+Masalah penelitian yang baik harus:
+
+-   Mencerminkan isu penting
+-   Didasarkan pada fakta
+-   Bersifat relevan dan dapat dikelola
+-   Menghasilkan hipotesis yang bermakna dan dapat diuji
+
+## Langkah-langkah Merumuskan Masalah Penelitian
+
+1. **Mengidentifikasi Bidang yang Luas**
+2. **Menguraikan Subarea**
+3. **Memilih Subarea**
+4. **Menyusun Pertanyaan Penelitian**
+5. **Merumuskan Tujuan Penelitian**
+6. **Menilai Tujuan Penelitian**
+7. **Pemeriksaan Ulang**
+
+## Sumber Masalah Penelitian
+
+-   **Pengalaman Pribadi dan Praktis**
+-   **Tinjauan Literatur**
+-   **Penelitian Sebelumnya**
+-   **Teori yang Ada**
+-   **Umpan Balik Konsumen**
+-   **Isu Sosial dan Brainstorming**
+-   **Intuisi dan Paparan di Lapangan**
+-   **Konsultasi dengan Para Ahli**
+
+## Tinjauan Literatur
+
+**Tinjauan literatur** adalah ringkasan komprehensif dari penelitian sebelumnya yang memberikan dasar teoretis dan menunjukkan pemahaman mendalam mengenai topik.
+
+## Identifikasi Kesenjangan Penelitian
+
+**Kesenjangan penelitian** adalah masalah yang belum terjawab. Mengidentifikasi kesenjangan ini membantu menemukan topik penelitian yang signifikan.
+
+<hr>
+</details>
+
+<details close>
+<summary>Metode Penelitian (Deciding the Methodology) </summary>
+
+<br>
+
+# 📘 Metode Penelitian (Deciding the Methodology)
+
+> Metode penelitian adalah tentang pemilihan strategi yang tepat untuk pengambilan keputusan dalam penelitian ilmiah. Pemilihan metodologi bergantung pada sifat masalah penelitian dan paradigma yang diadopsi.
+
+## Menghadapi Isu Konseptual
+
+1. Sifat masalah penelitian dan paradigma yang diadopsi.
+2. Beberapa metodologi cocok untuk paradigma positivistik, lainnya untuk fenomenologis.
+3. Peneliti dapat mencampur metodologi.
+
+## Paradigma Penelitian
+
+**Paradigma** adalah cara pandang ilmuwan dalam melakukan penelitian, mencakup filosofi dan asumsi dasar. Paradigma dapat diterapkan pada tiga tingkat:
+
+-   **Filosofis:** Keyakinan dasar tentang dunia.
+-   **Sosial:** Panduan bagi peneliti dalam melakukan penelitian.
+-   **Teknis:** Metode dan teknik yang digunakan.
+
+### Paradigma Utama
+
+| Paradigma Positivis | Paradigma Fenomenologis |
+| ------------------- | ----------------------- |
+| Kuantitatif         | Kualitatif              |
+| Objektif            | Subjektif               |
+| Ilmiah              | Humanistik              |
+| Eksperimentalis     | Interpretivis           |
+
+## Asumsi Dua Paradigma Utama
+
+### Ontologis
+
+-   **Kuantitatif:** Realitas objektif dan tunggal.
+-   **Kualitatif:** Realitas subjektif dan beragam.
+
+### Epistemologis
+
+-   **Kuantitatif:** Peneliti independen.
+-   **Kualitatif:** Peneliti berinteraksi dengan subjek.
+
+### Aksiologis
+
+-   **Kuantitatif:** Penelitian bebas nilai.
+-   **Kualitatif:** Penelitian diakui penuh nilai.
+
+### Retorikal
+
+-   **Kuantitatif:** Bahasa formal dan impersonal.
+-   **Kualitatif:** Bahasa informal dan personal.
+
+### Metodologis
+
+-   **Kuantitatif:** Proses deduktif, fokus pada hubungan sebab-akibat.
+-   **Kualitatif:** Proses induktif, desain berkembang selama penelitian.
+
+## Jenis Metodologi Penelitian
+
+### Metodologi Positivistik
+
+Berkaitan dengan penelitian berbasis objektivitas dan pengukuran ilmiah, seperti:
+
+-   Studi Cross-sectional
+-   Studi Eksperimental
+-   Studi Longitudinal
+-   Survei
+
+### Metodologi Fenomenologis
+
+Berfokus pada pengalaman subjektif, termasuk:
+
+-   Penelitian Tindakan
+-   Studi Kasus
+-   Etnografi
+-   Teori Berlandaskan Data
+
+## Menggabungkan Metodologi
+
+Pendekatan campuran memungkinkan integrasi berbagai metodologi untuk memberikan perspektif lebih lengkap dalam penelitian.
+
+### Triangulasi
+
+Teknik untuk meningkatkan keandalan dan validitas melalui berbagai pendekatan. Terdapat empat jenis triangulasi: data, peneliti, metodologis, dan teori.
+
+## Model, Bahasa, dan Bukti Matematika
+
+Model digunakan untuk menyederhanakan fenomena kompleks. Pemilihan bahasa harus sesuai dengan tujuan penelitian. Bukti matematika dianggap sebagai argumen tertinggi dalam penelitian.
+
+## Hipotesis dan Metode
+
+Metode penelitian harus mengikuti hipotesis yang dihasilkan, bukan sebaliknya.
+
+## Klasifikasi Informal Metode
+
+Penelitian dapat dibagi menjadi:
+
+1. **Formal:** Algoritma dan model matematis.
+2. **Berbasis Kasus:** Studi kasus sebagai basis penyelidikan.
+3. **Empiris:** Pengumpulan data melalui eksperimen atau pengamatan.
+
 <hr>
 </details>
