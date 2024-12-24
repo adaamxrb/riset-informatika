@@ -484,8 +484,8 @@ Penelitian dapat dibagi menjadi:
 
 ## 📄Evaluasi Akhir Semester
 
-| No  | File                 | Keterangan                                                                                                                            | Link    |
-| --- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 1   | **Proposal Riset**   | Implementasi Deep Back-Projection Network (DBPN) dengan Metode Gaussian Filtering untuk Peningkatan Resolusi Citra Dokumen Hasil Scan | [PDF]() |
-| 2   | **Slide Presentasi** | Slide PPT Research Gap, Mind Mapping, Methodology, Testing (Evaluation) Metrics, Research Progress.                                   | [PDF]() |
-| 3   | **Video Presentasi** | Video pemaparan tentang riset yang dilakukan.                                                                                         | [MP4]() |
+| No  | Tugas                      | Keterangan                                                                                                                            | Link    |
+| --- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| 1   | <h3> Proposal Riset </h3>  | Implementasi Deep Back-Projection Network (DBPN) dengan Metode Gaussian Filtering untuk Peningkatan Resolusi Citra Dokumen Hasil Scan | [PDF]() |
+| 2   | <h3>Slide Presentasi </h3> | Slide PPT Research Gap, Mind Mapping, Methodology, Testing (Evaluation) Metrics, Research Progress.                                   | [PDF]() |
+| 3   | <h3>Video Presentasi </h3> | Video pemaparan tentang riset yang dilakukan.                                                                                         | [MP4]() |
