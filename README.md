@@ -13,21 +13,17 @@
 
 > **_Penelitian dasar_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah atau untuk menemukan bidang penelitian baru tanpa suatu tujuan praktis tertentu. Artinya kegunaan hasil penelitian itu tidak segera dipakai namun dalam waktu jangka panjang juga akan terpakai.
 
-| Num | Title                  | Penulis   |
-| --- | ---------------------- | --------- |
-| 01  | <a href="">Judul 1</a> | Penulis 1 |
-| 02  | <a href="">Judul 2</a> | Penulis 2 |
-| 03  | <a href="">Judul 3</a> | Penulis 3 |
+| No  | Judul                                                                                                                                      | Penulis    |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 01  | <a href="assets/journal/pure-research/4638-8783-1-SP.pdf">Suatu Kecenderungan Penelitian Teknologi Pendidikan di masa yang akan datang</a> | DI Ritonga |
 
 ## ⚗️ Penelitian Terapan (Applied Research)
 
 > **_Penelitian Terapan_** adalah setiap penelitian yang bertujuan untuk meningkatkan pengetahuan ilmiah dengan suatu tujuan praktis. Berarti hasilnya diharapkan segera dapat dipakai untuk keperluan praktis. Misalnya penelitian untuk menunjang kegiatan pembangunan yang sedang berjalan, penelitian untuk melandasi kebijakan pengambilan keputusan atau administrator. Dilihat dari segi tujuannya, penelitian terapan berkepentingan dengan penemuan-penemuan yang berkenan dengan aplikasi dan sesuatu konsep-konsep teoritis tertentu.
 
-| Num | Title                  | Penulis   |
-| --- | ---------------------- | --------- |
-| 01  | <a href="">Judul 1</a> | Penulis 1 |
-| 02  | <a href="">Judul 2</a> | Penulis 2 |
-| 03  | <a href="">Judul 3</a> | Penulis 3 |
+| No  | Judul                                                                                                                             | Penulis           |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 01  | <a href="assets/journal/applied-research/2308.15996v1.pdf">DTrOCR: Decoder-only Transformer for Optical Character Recognition</a> | M Fujitake (2023) |
 
 <br>
 </details>
@@ -39,19 +35,17 @@
 
 > **_Methods atau Metode_** merupakan Serangkaian langkah atau teknik khusus yang digunakan dalam penelitian untuk menentukan bagaimana data dikumpulkan, diolah, dan dianalisis.
 
-| Num | Title                  | Penulis   |
-| --- | ---------------------- | --------- |
-| 01  | <a href="">Judul 1</a> | Penulis 1 |
-| 02  | <a href="">Judul 2</a> | Penulis 2 |
+| No  | Judul                                                                                                       | Penulis       |
+| --- | ----------------------------------------------------------------------------------------------------------- | ------------- |
+| 01  | <a href="assets/journal/methods/Challenges_in_KNN_Classification.pdf">Challenges in KNN Classification </a> | S Zhang(2022) |
 
 ## 📌 Methodology
 
 > **_Methodolgy atau Metodologi_** merupakan kerangka kerja yang digunakan dalam suatu penelitian, berfokus pada pertanyaan seperti bagaimana penelitian tersebut dilakukan, apa tujuan penelitian tersebut, dan bagaimana data tersebut akan dianalisis.
 
-| Num | Title                  | Penulis   |
-| --- | ---------------------- | --------- |
-| 01  | <a href="">Judul 1</a> | Penulis 1 |
-| 02  | <a href="">Judul 2</a> | Penulis 2 |
+| No  | Judul                                                                                                                                                                                                            | Penulis                              |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 01  | <a href="assets/journal/methodology/1-s2.0-S2772662222000261-main.pdf"> A comparative analysis of K-Nearest Neighbor, Genetic,SVM, Decision Tree, and Long Short Term Memory algorithms in machine learning </a> | M Bansal, A Goyal, A Choudary (2022) |
 
 </details>
 
@@ -487,3 +481,11 @@ Penelitian dapat dibagi menjadi:
 
 <hr>
 </details>
+
+## 📄Evaluasi Akhir Semester
+
+| No  | Link                 | Keterangan                                                                                                                            |
+| --- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Proposal Riset]()   | Implementasi Deep Back-Projection Network (DBPN) dengan Metode Gaussian Filtering untuk Peningkatan Resolusi Citra Dokumen Hasil Scan |
+| 2   | [Slide Presentasi]() | Slide PPT Research Gap, Mind Mapping, Methodology, Testing (Evaluation) Metrics, Research Progress                                    |
+| 3   | [Video Presentasi]() | Video pemaparan tentang riset yang dilakukan                                                                                          |
